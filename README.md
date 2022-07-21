@@ -1,2 +1,2 @@
 # VLAN-HOPPING
-Descrizione E dimostrazione dell'attacco VLAN HOPPING
+Descrizione e dimostrazione dell'attacco VLAN HOPPING
